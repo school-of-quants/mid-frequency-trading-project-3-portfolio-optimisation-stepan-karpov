@@ -1,0 +1,8 @@
+venv/
+.vscode
+**/**__pycache__
+**/*.ipynb_checkpoints
+CLAUDE.md
+equity_project/data/processed/
+equity_project/data/learning-dataset/
+equity_project/data/raw/
