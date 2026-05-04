@@ -4,4 +4,4 @@ venv/
 **/*.ipynb_checkpoints
 CLAUDE.md
 equity_project/data/processed/
-equity_project/data/learning-dataset/
+
